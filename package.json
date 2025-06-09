@@ -1,0 +1,24 @@
+{
+  "name": "cloudlab3tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trant44atwit/CloudLab3TT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trant44atwit/CloudLab3TT/issues"
+  },
+  "homepage": "https://github.com/trant44atwit/CloudLab3TT#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
